@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fale Conosco</title>
+    <link rel="stylesheet" href="fale.css">
+    <script defer src="app.js" ></script>
+
+</head>
+<body>
+    <header>
+        <div class="cabecalho">
+            <img src="./imag/logo.jpeg" alt="">
+            <nav>
+                <strong><a href="./index.html">Home</a></strong>
+                <strong><a href="./sobre.html">Sobre nós</a></strong>
+                <strong><a href="./servicos.html">Nossos serviços</a></strong>
+                <strong><a href="./fale.html">Fale conosco</a></strong>
+            </nav>
+        </div>
+        <div class="formulario">
+        <form 
+        action="https://formsubmit.co/ajax/guintermariana@gmail.com"
+        method="POST" 
+        data-form
+        >
+            <label for="nome">Seu nome</label>
+            <input type="text" name="nome" id="nome" required>
+            <label for="email">Seu email</label>
+            <input type="text" name="email" id="email" required>
+            <label for="mensagem">Mensagem</label>
+            <textarea name="mensagem" id="mensagem" required></textarea>
+            <button type="submit" data-button>Enviar</button>
+        </form>
+        </div>
+</body>
+</html>

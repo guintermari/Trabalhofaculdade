@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    width: 100vw;
+    background-color: rgb(235, 214, 235);
+}
+.cabecalho{
+    display: flex;
+    background-color: rgb(254, 244, 234); 
+    padding-bottom: 15px;
+    width: 100vw;
+}
+.cabecalho img{
+   width: 120px;
+   padding-left: 300px;
+}
+nav {
+    padding-left: 590px;
+    padding-top: 20px;
+    font-size: 23px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 90px;
+    
+    
+}
+nav a{
+    text-decoration: none;
+    color: rgb(86, 57, 51);
+}
+a:hover{
+    color: rgba(103, 89, 89, 0.2);
+}
+
+.formulario {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 1rem;
+}
+.formulario form{
+    width: 100%;
+    max-width: 30rem;
+}
+.formulario label, input, textarea, button{
+    display: block;
+}
+.formulario input, textarea, button{
+    width: 100%;
+    font: inherit;
+    padding: 1.25rem; 
+    font-weight: 700;
+}
+input, textarea{
+    margin-bottom: 1rem;
+    color: rgb(75, 74, 74);
+    border: 0.125rem solid transparent;
+    border-radius: 1rem;
+    transition: border-color 0.3s;
+    box-shadow: 0.3s;
+}
+input:hover, input:focus, textarea:hover, textarea:focus{
+   outline: nome; 
+   border-color: #1d90f5; 
+   
+}
+label{
+    margin-bottom: 0.5rem;
+    color: rgb(0, 0, 0);
+}
+textarea{
+    min-height: 12.5rem;
+    resize: vertical;
+}
+button{
+    border: nome;
+    border-radius: 99px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: 0.3s;
+    width: 525px;
+}
+button:hover, button:focus{
+    outline: none;
+    background-color: #8497a7;
+}
+button:disabled{
+    cursor: not-allowed;
+    background: #1d90f5;
+}

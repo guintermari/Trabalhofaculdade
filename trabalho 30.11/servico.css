@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    width: 100vw;
+    background-color:  white;
+}
+
+.cabecalho{
+    display: flex;
+    background-color: rgb(254, 244, 234); 
+    padding-bottom: 15px;
+    width: 100vw;
+}
+.cabecalho img{
+   width: 120px;
+   padding-left: 300px;
+}
+nav {
+    padding-left: 590px;
+    padding-top: 20px;
+    font-size: 23px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 90px;
+    
+    
+}
+nav a{
+    text-decoration: none;
+    color: rgb(86, 57, 51);
+}
+a:hover{
+    color: rgba(103, 89, 89, 0.2);
+}
+.tela-login{
+    background-color: rgb(235, 214, 235);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 80px;
+    border-radius: 15px;
+    color: rgb(86, 57, 51);
+}
+input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    background-color: rgb(254, 244, 234); 
+    font-size: 15px;
+}
+button{
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color: white; 
+    font-size: 15px;
+}
+button:hover{
+    background-color: deepskyblue;
+    cursor: pointer;
+}
