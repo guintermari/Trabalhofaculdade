@@ -10,6 +10,8 @@ O objetivo principal deste projeto é aplicar os conhecimentos adquiridos na dis
 
 **Tecnologias Utilizadas**
 
-**HTML:** Utilizado para estruturação das páginas web.
-**CSS:** Aplicado para estilização e design responsivo.
-**JavaScript:** Incorporado para adicionar interatividade e dinamismo ao site.
+**• HTML:** Utilizado para estruturação das páginas web.
+
+**• CSS:** Aplicado para estilização e design responsivo.
+
+**•  JavaScript:** Incorporado para adicionar interatividade e dinamismo ao site.
