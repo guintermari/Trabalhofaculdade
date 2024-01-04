@@ -1,6 +1,6 @@
 ### **Açucar & Magia** 🍫🍩
 
-Repositório sobre meu trabalho avaliativo da disciplina de Desenvolvimento Web da faculdade. Neste projeto, eu criei um site ilustrativo para uma doceria, utilizando HTML, CSS e JavaScript para proporcionar uma experiência interativa e atraente.
+Repositório sobre meu trabalho avaliativo da disciplina de Desenvolvimento Web da faculdade. Neste projeto, eu criei um site ilustrativo para uma doceria, utilizando HTML, CSS e JavaScript para proporcionar uma experiência interativa e atraente. Pode parecer simples para muitos, porém como uma das minhas primeiras criações, estou muito emplgada com o resultado!
 
 
 ### **Descrição do Projeto**
