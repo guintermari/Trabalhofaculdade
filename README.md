@@ -1,5 +1,4 @@
 **Açucar & Magia**
-
 Repositório sobre meu trabalho avaliativo da disciplina de Desenvolvimento Web da faculdade. Neste projeto, eu criei um site ilustrativo para uma doceria, utilizando HTML, CSS e JavaScript para proporcionar uma experiência interativa e atraente.
 
 
@@ -8,9 +7,6 @@ O objetivo principal deste projeto é aplicar os conhecimentos adquiridos na dis
 
 
 **Tecnologias Utilizadas**
-
 **HTML:** Utilizado para estruturação das páginas web.
-
 **CSS:** Aplicado para estilização e design responsivo.
-
 **JavaScript:** Incorporado para adicionar interatividade e dinamismo ao site.
